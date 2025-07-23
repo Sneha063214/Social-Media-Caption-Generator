@@ -19,4 +19,6 @@ A simple and interactive web app that generates **catchy social media captions**
 - Python 3.13.2
 - Streamlit App
 - Google Generative AI (Gemini API)
+
+
   
